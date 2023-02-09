@@ -137,8 +137,6 @@ public class testTreatians extends TreatiansBaseClass
 			Assert.assertEquals(createNew, str2);
 			System.out.println("Login Fail");
 			repo.backButton.click();
-
-
 		}
 
 	}

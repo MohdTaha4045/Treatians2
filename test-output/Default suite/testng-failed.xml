@@ -5,9 +5,9 @@
     <classes>
       <class name="test.testTreatians">
         <methods>
-          <include name="creatingNewUser"/>
           <include name="setup"/>
-          <include name="tearDownBrowser"/>
+          <include name="BookAppointment"/>
+          <include name="tearDown"/>
         </methods>
       </class> <!-- test.testTreatians -->
     </classes>
